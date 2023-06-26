@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body{
+background-color: black;
+color: white;
+}
+
+img{
+    width: 500px;
+    height: auto;
+}
+
+h1{
+    font-size: 100px;
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+    padding-bottom: 40px;
+    letter-spacing: 5px;
+}
+
+div{
+    font-size: 20px;
+    font-family: 'Arial Narrow Bold', sans-serif;
+    letter-spacing: 3px;
+    text-align: justify;
+}
+
+.foto {
+float:left;
+border: none ; 
+}
+
+.descripcion {
+border: none;
+overflow: hidden;
+padding: 70px;
+}
+
+.cont{
+    padding-top: 100px;
+}
+
+strong{
+    color: red;
+}
